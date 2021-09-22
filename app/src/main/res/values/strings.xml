@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Catch \'em</string>
+    <string name="title_activity_display">Display</string>
+</resources>
